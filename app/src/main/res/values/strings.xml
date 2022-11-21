@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guestbook App</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="telp">Telp</string>
+    <string name="kirim">Kirim</string>
+    <string name="kirim_parcelable">Kirim Parcelable</string>
+    <string name="buka_website">Buka Website</string>
+    <string name="kembali">Kembali</string>
+</resources>
